@@ -1,0 +1,169 @@
+"addr": {"city": "Berli", "country": "Germany"}, "products": ["Product OFBNT:513.000000000", "Product LSOFL:283.500000000", "Product CBRRL:18.000000000", "Product ICKNK:878.000000000", "Product IMEHJ:60.000000000"], "customerId": 1, "customerName": "Allen, Michael"}
+{"addr": {"city": "México D.F.", "country": "Mexico"}, "products": ["Product COAXA:28.800000000", "Product TOONT:60.000000000", "Product PWCJB:69.750000000", "Product RJVNM:70.000000000", "Product WHBYK:340.000000000"], "customerId": 2, "customerName": "Hassall, Mark"}
+{"addr": {"city": "México D.F.", "country": "Mexico"}, "products": ["Product QMVU:403.200000000", "Product ZZZHR:586.500000000", "Product MYNX:162.562500000", "Product QMVU:945.000000000", "Product YZIXQ:165.600000000"], "customerId": 3, "customerName": "Peoples, Joh"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product QOGNU:90.000000000", "Product OVLQI:390.000000000", "Product POXFU:96.000000000", "Product BIUDV:195.000000000", "Product VKCMF:608.000000000"], "customerId": 4, "customerName": "Arndt, Torste"}
+{"addr": {"city": "Luleå", "country": "Swede"}, "products": ["Product VJIEO:248.000000000", "Product UKXRI:660.000000000", "Product ICKNK:280.800000000", "Product WEUJZ:300.000000000", "Product QOGNU:43.200000000"], "customerId": 5, "customerName": "Higginbotham, Tom"}
+{"addr": {"city": "Mannheim", "country": "Germany"}, "products": ["Product QAQRL:149.000000000", "Product OFBNT:136.800000000", "Product OVLQI:78.000000000", "Product JYGFE:252.000000000", "Product QMVU:294.000000000"], "customerId": 6, "customerName": "Poland, Carole"}
+{"addr": {"city": "Strasbourg", "country": "France"}, "products": ["Product BLCAX:936.000000000", "Product TOONT:240.000000000", "Product LSOFL:864.000000000", "Product GEEOO:556.000000000", "Product OFBNT:1092.000000000"], "customerId": 7, "customerName": "Bansal, Dushyant"}
+{"addr": {"city": "Madrid", "country": "Spai"}, "products": ["Product KSBRM:422.400000000", "Product OVLQI:249.600000000", "Product BWRLG:310.000000000", "Product BLCAX:1170.000000000", "Product VJXY:1856.850000000"], "customerId": 8, "customerName": "Ilyina, Julia"}
+{"addr": {"city": "Marseille", "country": "France"}, "products": ["Product QAQRL:88.500000000", "Product CKEDC:950.000000000", "Product TTEEX:87.780000000", "Product ZZZHR:1398.400000000", "Product LYLNI:560.000000000"], "customerId": 9, "customerName": "Raghav, Amritansh"}
+{"addr": {"city": "Tsawasse", "country": "Canada"}, "products": ["Product YHXGE:396.800000000", "Product YYWRT:288.000000000", "Product WUXYK:788.000000000", "Product TOONT:360.000000000", "Product ASTM:98.000000000"], "customerId": 10, "customerName": "Bassols, Pilar Colome"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product IMEHJ:240.000000000", "Product HCQDE:239.400000000", "Product HMLNI:720.000000000", "Product VKCMF:608.000000000", "Product VJZZH:112.000000000"], "customerId": 11, "customerName": "Jaffe, David"}
+{"addr": {"city": "Buenos Aires", "country": "Argentina"}, "products": ["Product NEVTJ:54.000000000", "Product TTEEX:96.500000000", "Product TBTBL:75.000000000", "Product XWOXC:12.500000000", "Product ZZZHR:322.000000000"], "customerId": 12, "customerName": "Ray, Mike"}
+{"addr": {"city": "México D.F.", "country": "Mexico"}, "products": ["Product VJZZH:80.000000000", "Product EVFFA:20.800000000"], "customerId": 13, "customerName": "Benito, Almudena"}
+{"addr": {"city": "Ber", "country": "Switzerland"}, "products": ["Product QOGNU:45.900000000", "Product YYWRT:342.720000000", "Product BKAZJ:168.000000000", "Product HHYDP:183.600000000", "Product HCQDE:798.000000000"], "customerId": 14, "customerName": "Jelitto, Jacek"}
+{"addr": {"city": "Sao Paulo", "country": "Brazil"}, "products": ["Product EPEIM:340.000000000", "Product VJXY:1485.000000000", "Product FPYP:240.000000000", "Product LUNZZ:104.000000000", "Product QMVU:168.000000000"], "customerId": 15, "customerName": "Richardson, Shaw"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product RECZE:152.000000000", "Product CPHFY:201.600000000", "Product GEEOO:278.000000000", "Product POXFU:4.800000000", "Product JLUDZ:151.200000000"], "customerId": 16, "customerName": "Birkby, Dana"}
+{"addr": {"city": "Aache", "country": "Germany"}, "products": ["Product XWOXC:200.000000000", "Product BWRLG:74.400000000", "Product JYGFE:172.800000000", "Product POXFU:86.400000000", "Product QMVU:420.000000000"], "customerId": 17, "customerName": "Jones, TiAnna"}
+{"addr": {"city": "Nantes", "country": "France"}, "products": ["Product RJVNM:67.200000000", "Product COAXA:201.600000000", "Product HHYDP:54.000000000", "Product YHXGE:310.000000000", "Product VJZZH:60.000000000"], "customerId": 18, "customerName": "Rizaldy, Arif"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product COAXA:864.000000000", "Product MYMOI:86.000000000", "Product VJXY:2079.000000000", "Product NEVTJ:504.000000000", "Product FPYP:480.000000000"], "customerId": 19, "customerName": "Boseman, Randall"}
+{"addr": {"city": "Graz", "country": "Austria"}, "products": ["Product RECZE:608.000000000", "Product EPEIM:884.000000000", "Product NUNAW:122.880000000", "Product PAFRH:625.500000000", "Product QOGNU:100.800000000"], "customerId": 20, "customerName": "Kane, Joh"}
+{"addr": {"city": "Sao Paulo", "country": "Brazil"}, "products": ["Product LYLNI:112.000000000", "Product LSOFL:612.000000000", "Product YZIXQ:58.800000000", "Product BWRLG:31.620000000", "Product QOGNU:54.000000000"], "customerId": 21, "customerName": "Russo, Giuseppe"}
+{"addr": {"city": "Madrid", "country": "Spai"}, "products": [null], "customerId": 22, "customerName": "Bueno, Janaina Burdan, Neville"}
+{"addr": {"city": "Lille", "country": "France"}, "products": ["Product EVFFA:208.000000000", "Product QAQRL:35.400000000", "Product WUXYK:1379.000000000", "Product EZZPR:228.000000000", "Product UKXRI:528.000000000"], "customerId": 23, "customerName": "Khanna, Kara"}
+{"addr": {"city": "Bräcke", "country": "Swede"}, "products": ["Product RECZE:532.000000000", "Product TTEEX:163.625000000", "Product RECZE:304.000000000", "Product QMVU:672.000000000", "Product LYERX:579.600000000"], "customerId": 24, "customerName": "San Juan, Patricia"}
+{"addr": {"city": "Münche", "country": "Germany"}, "products": ["Product YZIXQ:735.000000000", "Product UKXRI:2618.000000000", "Product JYGFE:183.600000000", "Product JLUDZ:288.000000000", "Product HLGZA:597.600000000"], "customerId": 25, "customerName": "Carlson, Jaso"}
+{"addr": {"city": "Nantes", "country": "France"}, "products": ["Product PAFRH:174.500000000", "Product WUXYK:493.000000000", "Product XYWBZ:252.600000000", "Product APITJ:159.000000000", "Product JYGFE:360.000000000"], "customerId": 26, "customerName": "Koch, Paul"}
+{"addr": {"city": "Torino", "country": "Italy"}, "products": ["Product HLGZA:49.800000000", "Product XKXDO:46.000000000", "Product EZZPR:47.500000000", "Product AQOKR:38.000000000", "Product BKAZJ:50.000000000"], "customerId": 27, "customerName": "Schmöllerl, Marti"}
+{"addr": {"city": "Lisboa", "country": "Portugal"}, "products": ["Product UKXRI:396.000000000", "Product XYWBZ:672.000000000", "Product TBTBL:100.000000000", "Product QOGNU:36.000000000", "Product QAQRL:100.300000000"], "customerId": 28, "customerName": "Cavaglieri, Giorgio"}
+{"addr": {"city": "Barcelona", "country": "Spai"}, "products": ["Product XYWBZ:84.000000000", "Product LUNZZ:52.000000000", "Product VKCMF:152.000000000", "Product HCQDE:186.200000000", "Product YHXGE:155.000000000"], "customerId": 29, "customerName": "Kolesnikova, Katerina"}
+{"addr": {"city": "Sevilla", "country": "Spai"}, "products": ["Product YZIXQ:529.200000000", "Product XYWBZ:453.600000000", "Product TBTBL:135.000000000", "Product BLCAX:280.800000000", "Product XKXDO:92.000000000"], "customerId": 30, "customerName": "Shabalin, Rostislav"}
+{"addr": {"city": "Campinas", "country": "Brazil"}, "products": ["Product XWOXC:140.000000000", "Product UKXRI:880.000000000", "Product LYERX:38.835000000", "Product RJVNM:280.000000000", "Product YHXGE:620.000000000"], "customerId": 31, "customerName": "Cheng, Yao-Qiang"}
+{"addr": {"city": "Eugene", "country": "USA"}, "products": ["Product QMVU:63.000000000", "Product ASTM:16.000000000", "Product GEEOO:313.200000000", "Product NEVTJ:72.000000000", "Product QDOMO:3754.875000000"], "customerId": 32, "customerName": "Krishnan, Venky"}
+{"addr": {"city": "Caracas", "country": "Venezuela"}, "products": ["Product VJXY:990.000000000", "Product GEEOO:111.200000000", "Product YHXGE:310.000000000", "Product BWRLG:77.500000000"], "customerId": 33, "customerName": "Sigurdarson, Hallur "}
+{"addr": {"city": "Rio de Janeiro", "country": "Brazil"}, "products": ["Product TTEEX:77.000000000", "Product APITJ:1261.400000000", "Product XYWBZ:214.200000000", "Product XWOXC:200.000000000", "Product LSOFL:604.800000000"], "customerId": 34, "customerName": "Cohen, Shy"}
+{"addr": {"city": "San Cristóbal", "country": "Venezuela"}, "products": ["Product SMIOH:877.500000000", "Product LSOFL:86.400000000", "Product LUNZZ:156.000000000", "Product CBRRL:241.920000000", "Product BKGEA:1650.600000000"], "customerId": 35, "customerName": "Langohr, Kris"}
+{"addr": {"city": "Elgi", "country": "USA"}, "products": ["Product PWCJB:279.000000000", "Product QAQRL:59.000000000", "Product POXFU:48.000000000", "Product WUXYK:394.000000000", "Product BLCAX:62.400000000"], "customerId": 36, "customerName": "Smith, Denise"}
+{"addr": {"city": "Cork", "country": "Ireland"}, "products": ["Product RECZE:608.000000000", "Product GMKIJ:456.000000000", "Product UKXRI:990.000000000", "Product WUXYK:591.000000000", "Product KSBRM:352.000000000"], "customerId": 37, "customerName": "Crăciun, Ovidiu V."}
+{"addr": {"city": "Cowes", "country": "UK"}, "products": ["Product SWNJY:156.800000000", "Product TOONT:360.000000000", "Product TTEEX:154.000000000", "Product JYGFE:86.400000000", "Product NEVTJ:144.000000000"], "customerId": 38, "customerName": "Lee, Frank"}
+{"addr": {"city": "Brandenburg", "country": "Germany"}, "products": ["Product KSZOI:62.000000000", "Product LYLNI:44.800000000", "Product LSOFL:57.600000000", "Product VAIIV:120.000000000", "Product POXFU:57.600000000"], "customerId": 39, "customerName": "Song, Lola"}
+{"addr": {"city": "Versailles", "country": "France"}, "products": ["Product HMLNI:150.000000000", "Product SMIOH:439.000000000", "Product TOONT:60.000000000", "Product QHFFP:405.000000000", "Product QSRXF:35.000000000"], "customerId": 40, "customerName": "De Oliveira, Jose"}
+{"addr": {"city": "Toulouse", "country": "France"}, "products": ["Product BIUDV:175.500000000", "Product COAXA:466.560000000", "Product QOGNU:34.200000000", "Product SWNJY:106.400000000", "Product GMKIJ:288.800000000"], "customerId": 41, "customerName": "Litton, Tim"}
+{"addr": {"city": "Vancouver", "country": "Canada"}, "products": ["Product JLUDZ:72.000000000", "Product TTEEX:154.000000000", "Product LUNZZ:52.000000000", "Product QOGNU:22.500000000", "Product QSRXF:35.000000000"], "customerId": 42, "customerName": "Steiner, Dominik"}
+{"addr": {"city": "Walla Walla", "country": "USA"}, "products": ["Product YZIXQ:147.000000000", "Product QMVU:210.000000000"], "customerId": 43, "customerName": "Deshpande, Anu"}
+{"addr": {"city": "Frankfurt a.M.", "country": "Germany"}, "products": ["Product BLCAX:351.000000000", "Product SMIOH:394.875000000", "Product VJIEO:325.500000000", "Product WHBYK:408.000000000", "Product XLXQF:42.000000000"], "customerId": 44, "customerName": "Louverdis, George"}
+{"addr": {"city": "San Francisco", "country": "USA"}, "products": ["Product KSZOI:155.000000000", "Product BWRLG:162.750000000", "Product CKEDC:562.500000000", "Product LYERX:58.252500000", "Product QAQRL:223.500000000"], "customerId": 45, "customerName": "Sunkammurali, Krishna"}
+{"addr": {"city": "Barquisimeto", "country": "Venezuela"}, "products": ["Product KSZOI:248.000000000", "Product XKXDO:131.400000000", "Product WHBYK:952.000000000", "Product GEEOO:83.400000000", "Product QMVU:201.600000000"], "customerId": 46, "customerName": "Dressler, Marlies"}
+{"addr": {"city": "I. de Margarita", "country": "Venezuela"}, "products": ["Product IMEHJ:400.000000000", "Product RECZE:273.600000000", "Product IMEHJ:144.000000000", "Product YYWRT:518.400000000", "Product TOONT:648.000000000"], "customerId": 47, "customerName": "Lupu, Cornel"}
+{"addr": {"city": "Portland", "country": "USA"}, "products": ["Product WUXYK:394.000000000", "Product TBTBL:30.000000000", "Product HHYDP:288.000000000", "Product OFBNT:319.200000000", "Product XLXQF:98.000000000"], "customerId": 48, "customerName": "Szymczak, Radosław"}
+{"addr": {"city": "Bergamo", "country": "Italy"}, "products": ["Product QOGNU:41.040000000", "Product UKXRI:250.800000000", "Product LQMG:408.000000000", "Product TBTBL:200.000000000", "Product HLGZA:709.650000000"], "customerId": 49, "customerName": "Duerr, Bernard"}
+{"addr": {"city": "Bruxelles", "country": "Belgium"}, "products": ["Product YYWRT:336.000000000", "Product TBTBL:250.000000000", "Product COAXA:360.000000000", "Product OFBNT:912.000000000", "Product GEEOO:522.000000000"], "customerId": 50, "customerName": "Mace, Donald"}
+{"addr": {"city": "Montréal", "country": "Canada"}, "products": ["Product CKEDC:1600.000000000", "Product RJVNM:89.600000000", "Product EZZPR:97.280000000", "Product KSBRM:176.000000000", "Product BLCAX:2074.800000000"], "customerId": 51, "customerName": "Taylor, Maurice"}
+{"addr": {"city": "Leipzig", "country": "Germany"}, "products": ["Product OFBNT:728.000000000", "Product WUXYK:472.800000000", "Product UKXRI:660.000000000", "Product ICKNK:263.400000000", "Product GEEOO:1044.000000000"], "customerId": 52, "customerName": "Dupont-Roc, Patrice"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product QSRXF:42.000000000", "Product UKXRI:220.000000000", "Product TOONT:90.000000000", "Product HHYDP:144.000000000", "Product COAXA:108.000000000"], "customerId": 53, "customerName": "Mallit, Ke"}
+{"addr": {"city": "Buenos Aires", "country": "Argentina"}, "products": ["Product PWCJB:223.200000000", "Product VJZZH:96.000000000", "Product UKXRI:110.000000000", "Product POXFU:30.000000000", "Product EPEIM:427.000000000"], "customerId": 54, "customerName": "Tiano, Mike"}
+{"addr": {"city": "Anchorage", "country": "USA"}, "products": ["Product CKEDC:1125.000000000", "Product VJXY:2227.500000000", "Product LSOFL:388.800000000", "Product BLCAX:624.000000000", "Product LYERX:310.500000000"], "customerId": 55, "customerName": "Egelund-Muller, Anja"}
+{"addr": {"city": "Köl", "country": "Germany"}, "products": ["Product TTEEX:92.400000000", "Product OVLQI:780.000000000", "Product WUXYK:443.250000000", "Product TOONT:189.000000000", "Product QMVU:504.000000000"], "customerId": 56, "customerName": "Marinova, Nadejda"}
+{"addr": {"city": "Paris", "country": "France"}, "products": [null], "customerId": 57, "customerName": "Tollevsen, Bjør"}
+{"addr": {"city": "México D.F.", "country": "Mexico"}, "products": ["Product QSRXF:112.000000000", "Product HHYDP:172.800000000", "Product VJXY:396.000000000", "Product PWCJB:223.200000000", "Product OFBNT:655.200000000"], "customerId": 58, "customerName": "Fakhouri, Fadi"}
+{"addr": {"city": "Salzburg", "country": "Austria"}, "products": ["Product QMVU:161.280000000", "Product QDOMO:8432.000000000", "Product COAXA:1440.000000000", "Product PWCJB:651.000000000", "Product QMVU:189.000000000"], "customerId": 59, "customerName": "Meston, Tosh"}
+{"addr": {"city": "Lisboa", "country": "Portugal"}, "products": ["Product KSBRM:285.120000000", "Product VJZZH:68.000000000", "Product APITJ:648.720000000", "Product VKCMF:851.200000000", "Product HHYDP:216.000000000"], "customerId": 60, "customerName": "Uppal, Sunil"}
+{"addr": {"city": "Rio de Janeiro", "country": "Brazil"}, "products": ["Product VJZZH:160.000000000", "Product NEVTJ:288.000000000", "Product POXFU:86.400000000", "Product VJIEO:334.800000000", "Product APITJ:76.320000000"], "customerId": 61, "customerName": "Florczyk, Krzysztof"}
+{"addr": {"city": "Sao Paulo", "country": "Brazil"}, "products": ["Product QHFFP:583.200000000", "Product QDOMO:6324.000000000", "Product WHBYK:1428.000000000", "Product GEEOO:875.700000000", "Product HHYDP:144.000000000"], "customerId": 62, "customerName": "Misiec, Anna"}
+{"addr": {"city": "Cunewalde", "country": "Germany"}, "products": ["Product YHXGE:565.440000000", "Product XWOXC:142.500000000", "Product ASTM:40.000000000", "Product YZIXQ:837.900000000", "Product JYGFE:451.440000000"], "customerId": 63, "customerName": "Veronesi, Giorgio"}
+{"addr": {"city": "Buenos Aires", "country": "Argentina"}, "products": ["Product HLGZA:149.400000000", "Product YZIXQ:294.000000000", "Product VJZZH:50.000000000", "Product APITJ:371.000000000", "Product XYZPE:285.000000000"], "customerId": 64, "customerName": "Gaffney, Lawrie"}
+{"addr": {"city": "Albuquerque", "country": "USA"}, "products": ["Product EPEIM:163.200000000", "Product HMLNI:360.000000000", "Product VKCMF:60.800000000", "Product QHFFP:388.800000000", "Product XWOXC:400.000000000"], "customerId": 65, "customerName": "Moore, Michael"}
+{"addr": {"city": "Reggio Emilia", "country": "Italy"}, "products": ["Product QAQRL:53.100000000", "Product TBTBL:27.000000000", "Product CBRRL:192.000000000", "Product QMVU:80.640000000", "Product OFBNT:436.800000000"], "customerId": 66, "customerName": "Voss, Floria"}
+{"addr": {"city": "Rio de Janeiro", "country": "Brazil"}, "products": ["Product PAFRH:472.600000000", "Product SWNJY:224.000000000", "Product CBRRL:122.400000000", "Product XKXDO:109.500000000", "Product TOONT:240.000000000"], "customerId": 67, "customerName": "Garden, Eua"}
+{"addr": {"city": "Genève", "country": "Switzerland"}, "products": ["Product RECZE:304.000000000", "Product PAFRH:486.500000000", "Product GMKIJ:380.000000000", "Product UKXRI:1320.000000000", "Product WHBYK:1550.400000000"], "customerId": 68, "customerName": "Myrcha, Jacek"}
+{"addr": {"city": "Madrid", "country": "Spai"}, "products": ["Product XKXDO:7.300000000", "Product QOGNU:21.600000000", "Product NEVTJ:57.600000000", "Product LYERX:124.200000000", "Product OVLQI:31.200000000"], "customerId": 69, "customerName": "Watters, Jason M."}
+{"addr": {"city": "Staver", "country": "Norway"}, "products": ["Product QOGNU:54.000000000", "Product OFBNT:218.400000000", "Product UKXRI:528.000000000", "Product MYMOI:258.000000000", "Product QOGNU:36.000000000"], "customerId": 70, "customerName": "Ginters, Kaspars"}
+{"addr": {"city": "Boise", "country": "USA"}, "products": ["Product PAFRH:248.115000000", "Product NEVTJ:856.800000000", "Product CBRRL:288.000000000", "Product UKXRI:1496.000000000", "Product ICKNK:2386.800000000"], "customerId": 71, "customerName": "Navarro, Tomás"}
+{"addr": {"city": "Londo", "country": "UK"}, "products": ["Product PAFRH:739.480000000", "Product XWOXC:665.000000000", "Product WHBYK:2067.200000000", "Product OFBNT:618.800000000", "Product LSOFL:244.800000000"], "customerId": 72, "customerName": "Welcker, Bria"}
+{"addr": {"city": "Kobenhav", "country": "Denmark"}, "products": ["Product ASTM:16.000000000", "Product UKXRI:336.600000000", "Product QDOMO:10540.000000000", "Product CBRRL:14.400000000", "Product TBTBL:270.000000000"], "customerId": 73, "customerName": "Gonzalez, Nuria"}
+{"addr": {"city": "Paris", "country": "France"}, "products": ["Product PAFRH:52.350000000", "Product BWRLG:108.500000000", "Product CKEDC:375.000000000", "Product QDOMO:1317.500000000", "Product COAXA:360.000000000"], "customerId": 74, "customerName": "O’Brien, Dave"}
+{"addr": {"city": "Lander", "country": "USA"}, "products": ["Product ASTM:48.000000000", "Product XKXDO:69.350000000", "Product LYERX:157.320000000", "Product QDOMO:4005.200000000", "Product VKCMF:346.560000000"], "customerId": 75, "customerName": "Wojciechowska, Agnieszka"}
+{"addr": {"city": "Charleroi", "country": "Belgium"}, "products": ["Product QHFFP:2462.400000000", "Product ASTM:47.500000000", "Product WHBYK:1088.000000000", "Product BLCAX:1248.000000000", "Product OFBNT:1019.200000000"], "customerId": 76, "customerName": "Gulbis, Katri"}
+{"addr": {"city": "Portland", "country": "USA"}, "products": ["Product PAFRH:139.000000000", "Product WUXYK:197.000000000", "Product EPEIM:85.400000000", "Product GMKIJ:95.000000000", "Product SWNJY:140.000000000"], "customerId": 77, "customerName": "Osorio, Cristia"}
+{"addr": {"city": "Butte", "country": "USA"}, "products": ["Product OFBNT:456.000000000", "Product VJXY:742.740000000", "Product VJIEO:194.500000000", "Product YHXGE:186.000000000", "Product XLXQF:42.000000000"], "customerId": 78, "customerName": "Young, Robi"}
+{"addr": {"city": "Münster", "country": "Germany"}, "products": ["Product PWCJB:167.400000000", "Product APITJ:1696.000000000", "Product XKXDO:87.600000000", "Product SWNJY:179.200000000", "Product OVLQI:187.200000000"], "customerId": 79, "customerName": "Wickham, Jim"}
+{"addr": {"city": "México D.F.", "country": "Mexico"}, "products": ["Product YHXGE:372.000000000", "Product POXFU:48.000000000", "Product CKEDC:600.000000000", "Product QOGNU:36.000000000", "Product ICKNK:175.500000000"], "customerId": 80, "customerName": "Geschwandtner, Jens"}
+{"addr": {"city": "Sao Paulo", "country": "Brazil"}, "products": ["Product QHFFP:1296.000000000", "Product XWOXC:190.000000000", "Product KSBRM:352.000000000", "Product YYWRT:384.000000000", "Product WUXYK:394.400000000"], "customerId": 81, "customerName": "Nagel, Jean-Philippe"}
+{"addr": {"city": "Kirkland", "country": "USA"}, "products": ["Product ASTM:35.000000000", "Product YZIXQ:36.800000000", "Product WUXYK:493.000000000", "Product HCQDE:199.500000000", "Product LSOFL:180.000000000"], "customerId": 82, "customerName": "Veninga, Tjeerd"}
+{"addr": {"city": "Århus", "country": "Denmark"}, "products": ["Product SWNJY:403.200000000", "Product QAQRL:106.200000000", "Product XYWBZ:252.000000000", "Product LUNZZ:72.800000000", "Product TBTBL:600.000000000"], "customerId": 83, "customerName": "Fonteneau, Karl"}
+{"addr": {"city": "Lyo", "country": "France"}, "products": ["Product CPHFY:95.760000000", "Product OVLQI:222.300000000", "Product XYWBZ:336.000000000", "Product QSRXF:44.800000000", "Product TBTBL:100.000000000"], "customerId": 84, "customerName": "Tuntisangaroon, Sittichai"}
+{"addr": {"city": "Reims", "country": "France"}, "products": ["Product QMVU:168.000000000", "Product RJVNM:98.000000000", "Product GEEOO:174.000000000", "Product MYMOI:344.000000000", "Product GEEOO:194.600000000"], "customerId": 85, "customerName": "McLin, Nkenge"}
+{"addr": {"city": "Stuttgart", "country": "Germany"}, "products": ["Product YZIXQ:147.000000000", "Product VKCMF:608.000000000", "Product OFBNT:145.600000000", "Product ZZZHR:883.200000000", "Product BKGEA:524.000000000"], "customerId": 86, "customerName": "Syamala, Manoj"}
+{"addr": {"city": "Oulu", "country": "Finland"}, "products": ["Product OSFNS:346.560000000", "Product GMKIJ:456.000000000", "Product ZZZHR:920.000000000", "Product MYMOI:516.000000000", "Product PWCJB:186.000000000"], "customerId": 87, "customerName": "Ludwig, Michael"}
+{"addr": {"city": "Resende", "country": "Brazil"}, "products": ["Product BKGEA:393.000000000", "Product LUNZZ:124.800000000", "Product AOZBW:1396.800000000", "Product POXFU:8.640000000", "Product TOONT:86.400000000"], "customerId": 88, "customerName": "Li, Ya"}
+{"addr": {"city": "Seattle", "country": "USA"}, "products": ["Product ASTM:114.000000000", "Product GEEOO:528.200000000", "Product KSBRM:616.000000000", "Product WVJFP:1680.000000000", "Product RECZE:516.800000000"], "customerId": 89, "customerName": "Smith Jr., Ronaldo"}
+{"addr": {"city": "Helsinki", "country": "Finland"}, "products": ["Product YYWRT:120.000000000", "Product PAFRH:52.350000000", "Product RJVNM:84.000000000", "Product ZZZHR:276.000000000", "Product WVJFP:400.000000000"], "customerId": 90, "customerName": "Larsson, Katarina"}
+{"addr": {"city": "Warszawa", "country": "Poland"}, "products": ["Product XWOXC:300.000000000", "Product ACRVI:159.000000000", "Product HHYDP:108.000000000", "Product RECZE:190.000000000", "Product WHBYK:510.000000000"], "customerId": 91, "customerName": "Conn, Steve"}
+Product OFBNT	7251.0
+Product LSOFL	3321.9000000000005
+Product CBRRL	876.7199999999999
+Product ICKNK	3984.5
+Product IMEHJ	844.0
+Product COAXA	3828.96
+Product TOONT	2333.4
+Product PWCJB	1799.5500000000002
+Product RJVNM	688.8
+Product WHBYK	8343.599999999999
+Product QMVU	4479.72
+Product ZZZHR	4386.1
+Product MYNX	162.5625
+Product YZIXQ	2951.3
+Product QOGNU	615.24
+Product OVLQI	1938.3
+Product POXFU	465.84000000000003
+Product BIUDV	370.5
+Product VKCMF	3234.56
+Product VJIEO	1102.8
+Product UKXRI	10993.4
+Product WEUJZ	300.0
+Product QAQRL	815.0000000000001
+Product JYGFE	1506.24
+Product BLCAX	6747.0
+Product GEEOO	4680.3
+Product KSBRM	2203.52
+Product BWRLG	764.77
+Product VJXY	9777.09
+Product CKEDC	5212.5
+Product TTEEX	825.305
+Product LYLNI	716.8
+Product YHXGE	2915.24
+Product YYWRT	1989.12
+Product WUXYK	6039.45
+Product ASTM	414.5
+Product HCQDE	1423.1000000000001
+Product HMLNI	1230.0
+Product VJZZH	626.0
+Product NEVTJ	1976.3999999999999
+Product TBTBL	1787.0
+Product XWOXC	2250.0
+Product EVFFA	228.8
+Product BKAZJ	218.0
+Product HHYDP	1310.4
+Product EPEIM	1899.6000000000001
+Product FPYP	720.0
+Product LUNZZ	561.6
+Product RECZE	3488.3999999999996
+Product CPHFY	297.36
+Product JLUDZ	511.2
+Product MYMOI	1204.0
+Product NUNAW	122.88
+Product PAFRH	2990.3949999999995
+None	None
+Product EZZPR	372.78
+Product LYERX	1268.7075
+Product HLGZA	1506.45
+Product XYWBZ	2264.4
+Product APITJ	4212.4400000000005
+Product XKXDO	543.15
+Product AQOKR	38.0
+Product QDOMO	34373.575
+Product SMIOH	1711.375
+Product BKGEA	2567.6
+Product GMKIJ	1675.8
+Product SWNJY	1209.6000000000001
+Product KSZOI	465.0
+Product VAIIV	120.0
+Product QHFFP	5135.4
+Product QSRXF	268.8
+Product XLXQF	182.0
+Product LQMG	408.0
+Product XYZPE	285.0
+Product OSFNS	346.56
+Product AOZBW	1396.8
+Product WVJFP	2080.0
+Product ACRVI	159.0

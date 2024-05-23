@@ -1,0 +1,138 @@
+
+drop table if exists OrderDetails;
+drop table if exists Orders;
+drop table if exists Shippers;
+drop table if exists Customers;
+drop table if exists Products;
+drop table if exists Categories;
+drop table if exists Suppliers;
+drop table if exists Employees;
+
+CREATE TABLE Employees
+(
+  empid           INT          NOT NULL auto_increment,
+  lastname        VARCHAR(20) NOT NULL,
+  firstname       VARCHAR(10) NOT NULL,
+  title           VARCHAR(30) NOT NULL,
+  titleofcourtesy VARCHAR(25) NOT NULL,
+  birthdate       char(50)     NOT NULL,
+  hiredate        char(50)     NOT NULL,
+  address         VARCHAR(60) NOT NULL,
+  city            VARCHAR(15) NOT NULL,
+  region          VARCHAR(15) NULL,
+  postalcode      VARCHAR(10) NULL,
+  country         VARCHAR(15) NOT NULL,
+  phone           VARCHAR(24) NOT NULL,
+  mgrid           INT          NULL,
+  CONSTRAINT PK_Employees PRIMARY KEY(empid),
+  CONSTRAINT FK_Employees_Employees FOREIGN KEY(mgrid)
+    REFERENCES Employees(empid)
+);
+
+CREATE TABLE Suppliers
+(
+  supplierid   INT          NOT NULL auto_increment,
+  companyname  VARCHAR(40) NOT NULL,
+  contactname  VARCHAR(30) NOT NULL,
+  contacttitle VARCHAR(30) NOT NULL,
+  address      VARCHAR(60) NOT NULL,
+  city         VARCHAR(15) NOT NULL,
+  region       VARCHAR(15) NULL,
+  postalcode   VARCHAR(10) NULL,
+  country      VARCHAR(15) NOT NULL,
+  phone        VARCHAR(24) NOT NULL,
+  fax          VARCHAR(24) NULL,
+  CONSTRAINT PK_Suppliers PRIMARY KEY(supplierid)
+);
+
+CREATE TABLE Categories
+(
+  categoryid   INT           NOT NULL auto_increment,
+  categoryname VARCHAR(15)  NOT NULL,
+  description  VARCHAR(200) NOT NULL,
+  CONSTRAINT PK_Categories PRIMARY KEY(categoryid)
+);
+
+CREATE TABLE Products
+(
+  productid    INT          NOT NULL auto_increment,
+  productname  VARCHAR(40) NOT NULL,
+  supplierid   INT          NOT NULL,
+  categoryid   INT          NOT NULL,
+  unitprice    decimal(20,6)        NOT NULL     DEFAULT(0),
+  discontinued BIT          NOT NULL      DEFAULT(0),
+  CONSTRAINT PK_Products PRIMARY KEY(productid),
+  CONSTRAINT FK_Products_Categories FOREIGN KEY(categoryid)
+    REFERENCES Categories(categoryid),
+  CONSTRAINT FK_Products_Suppliers FOREIGN KEY(supplierid)
+    REFERENCES Suppliers(supplierid),
+  CONSTRAINT CHK_Products_unitprice CHECK(unitprice >= 0)
+);
+
+CREATE TABLE Customers
+(
+  custid       INT          NOT NULL auto_increment,
+  companyname  VARCHAR(40) NOT NULL,
+  contactname  VARCHAR(30) NOT NULL,
+  contacttitle VARCHAR(30) NOT NULL,
+  address      VARCHAR(60) NOT NULL,
+  city         VARCHAR(15) NOT NULL,
+  region       VARCHAR(15) NULL,
+  postalcode   VARCHAR(10) NULL,
+  country      VARCHAR(15) NOT NULL,
+  phone        VARCHAR(24) NOT NULL,
+  fax          VARCHAR(24) NULL,
+  CONSTRAINT PK_Customers PRIMARY KEY(custid)
+);
+
+
+CREATE TABLE Shippers
+(
+  shipperid   INT          NOT NULL auto_increment,
+  companyname VARCHAR(40) NOT NULL,
+  phone       VARCHAR(24) NOT NULL,
+  CONSTRAINT PK_Shippers PRIMARY KEY(shipperid)
+);
+
+CREATE TABLE Orders
+(
+  orderid        INT          NOT NULL auto_increment,
+  custid         INT          NULL,
+  empid          INT          NOT NULL,
+  orderdate      char(50)     NOT NULL,
+  requireddate   char(50)     NOT NULL,
+  shippeddate    char(50)     NULL,
+  shipperid      INT          NOT NULL,
+  freight        decimal(20,6)        NOT NULL     DEFAULT(0),
+  shipname       VARCHAR(40) NOT NULL,
+  shipaddress    VARCHAR(60) NOT NULL,
+  shipcity       VARCHAR(15) NOT NULL,
+  shipregion     VARCHAR(15) NULL,
+  shippostalcode VARCHAR(10) NULL,
+  shipcountry    VARCHAR(15) NOT NULL,
+  CONSTRAINT PK_Orders PRIMARY KEY(orderid),
+  CONSTRAINT FK_Orders_Customers FOREIGN KEY(custid)
+    REFERENCES Customers(custid),
+  CONSTRAINT FK_Orders_Employees FOREIGN KEY(empid)
+    REFERENCES Employees(empid),
+  CONSTRAINT FK_Orders_Shippers FOREIGN KEY(shipperid)
+    REFERENCES Shippers(shipperid)
+);
+
+CREATE TABLE OrderDetails
+(
+  orderid   INT           NOT NULL,
+  productid INT           NOT NULL,
+  unitprice decimal(20,6)         NOT NULL   DEFAULT(0),
+  qty       SMALLINT      NOT NULL DEFAULT(1),
+  discount  NUMERIC(4, 3) NOT NULL DEFAULT(0),
+  CONSTRAINT PK_OrderDetails PRIMARY KEY(orderid, productid),
+  CONSTRAINT FK_OrderDetails_Orders FOREIGN KEY(orderid)
+    REFERENCES Orders(orderid),
+  CONSTRAINT FK_OrderDetails_Products FOREIGN KEY(productid)
+    REFERENCES Products(productid),
+  CONSTRAINT CHK_discount  CHECK (discount BETWEEN 0 AND 1),
+  CONSTRAINT CHK_qty  CHECK (qty > 0),
+  CONSTRAINT CHK_unitprice CHECK (unitprice >= 0)
+);
+
